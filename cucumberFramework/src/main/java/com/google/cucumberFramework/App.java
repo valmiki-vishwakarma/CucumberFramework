@@ -1,4 +1,4 @@
-package com.bhanupratap.cucumberFramework;
+package com.google.cucumberFramework;
 
 /**
  * Hello world!

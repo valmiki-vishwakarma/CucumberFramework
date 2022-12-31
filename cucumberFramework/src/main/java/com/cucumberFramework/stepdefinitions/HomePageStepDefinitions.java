@@ -8,13 +8,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
-/**
- * 
- * @author Bhanu Pratap Singh
- * https://www.udemy.com/seleniumbybhanu/
- * https://www.youtube.com/user/MrBhanupratap29/playlists
- *
- */
+
 public class HomePageStepDefinitions extends TestBase{
 
 	HomePage homePage = new HomePage(driver);
