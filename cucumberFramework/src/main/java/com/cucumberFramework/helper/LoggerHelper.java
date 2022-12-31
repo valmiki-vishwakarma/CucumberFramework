@@ -3,10 +3,11 @@ package com.cucumberFramework.helper;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 /**
- * 
+ *
  * @author VV
  *
- */
+ * 
+ * */
 public class LoggerHelper {
 
 	private static boolean root=false;

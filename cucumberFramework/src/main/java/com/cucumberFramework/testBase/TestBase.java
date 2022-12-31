@@ -7,7 +7,6 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import com.cucumberFramework.enums.Browsers;
 import com.cucumberFramework.enums.OS;
 
-
 public class TestBase {
 
 	public  static WebDriver driver;

@@ -8,7 +8,6 @@ import org.openqa.selenium.support.PageFactory;
 import com.cucumberFramework.helper.WaitHelper;
 
 public class LoginPage {
-	
 	private WebDriver driver;
 	
 	@FindBy(xpath="//*[@id='form']/div/div[2]/input")

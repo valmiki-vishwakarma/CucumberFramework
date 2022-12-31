@@ -1,6 +1,5 @@
 package com.cucumberFramework.helper;
 
-
 public class Constants {
 
 

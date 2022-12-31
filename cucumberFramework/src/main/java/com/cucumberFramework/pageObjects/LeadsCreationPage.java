@@ -11,7 +11,6 @@ import com.cucumberFramework.helper.Constants;
 import com.cucumberFramework.helper.LoggerHelper;
 import com.cucumberFramework.helper.WaitHelper;
 
-
 public class LeadsCreationPage {
 
 	WebDriver driver;
